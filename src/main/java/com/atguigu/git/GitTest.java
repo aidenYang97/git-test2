@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("third gitHub");
         System.out.println("fourth gitHub");
         System.out.println("master test MERGING");
+        System.out.println("hot-fix test MERGING");
     }
 }
