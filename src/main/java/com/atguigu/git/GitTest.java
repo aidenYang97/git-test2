@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello gitHub");
         System.out.println("third gitHub");
         System.out.println("fourth gitHub");
+        System.out.println("master test MERGING");
     }
 }
